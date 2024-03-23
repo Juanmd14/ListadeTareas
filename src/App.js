@@ -1,5 +1,5 @@
 import './App.css';
-import freeCodeCampLogo from './imagenes/lista.png';
+import listaImagen from './imagenes/lista.png';
 import ListaDeTareas from './componentes/ListaDeTareas';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className='aplicacion-tareas'>
       <div className='logo-contenedor'>
         <img 
-          src={freeCodeCampLogo} 
+          src={listaImagen} 
           className='logo' />
       </div>
       <div className='tareas-lista-principal'>
