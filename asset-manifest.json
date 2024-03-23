@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Tareas/static/css/main.14ee8806.css",
+    "main.js": "/React-Tareas/static/js/main.f5172f1d.js",
+    "static/media/fondo.jpg": "/React-Tareas/static/media/fondo.1af49f7db81a4e21f633.jpg",
+    "static/media/lista.png": "/React-Tareas/static/media/lista.14c78a191672fcfd1705.png",
+    "index.html": "/React-Tareas/index.html",
+    "main.14ee8806.css.map": "/React-Tareas/static/css/main.14ee8806.css.map",
+    "main.f5172f1d.js.map": "/React-Tareas/static/js/main.f5172f1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ee8806.css",
+    "static/js/main.f5172f1d.js"
+  ]
+}
